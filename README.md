@@ -4,9 +4,6 @@ Author: Nicholas Korte
 
 GitHub - nrkorte
 
-Email - etroknick@gmail.com
-Discord - segc_
-
 
 Purpose:
 This is a bot that will complete your McGraw Hill Connect homework for you. This bot is to be used for the version of McGraw Hill Connect that has Multiple Choice, True or False, Multiple Select, Matching, and Ordering questions. This is NOT to be used for the version of McGraw Hill Connect that has table-based inputs as it will not work.
